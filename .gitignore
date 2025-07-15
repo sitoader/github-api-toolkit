@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+
+# GitHub App private keys
+*.pem
+
+# Generated reports
+reports/
+
+# exclude package-lock.json
+package-lock.json
+package.json
+
+# VS Code settings (optional)
+# .vscode/
